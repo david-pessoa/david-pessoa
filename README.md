@@ -1,4 +1,5 @@
 ### Olá, mundo! 🌎
+### Estou sempre criando coisas incríveis com bits e bytes
 ![David GitHub stats](https://github-readme-stats.vercel.app/api?username=david-pessoa&show_icons=true&theme=radical)
 ### Linguagens usadas no meu dia a dia:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,4 +16,4 @@
 
 ### Contato:
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dassoa-510302200vid-pe/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pessoa.dvlbp@gmail.com)
+<br/>Email: pessoa.dvlbp@gmail.com
