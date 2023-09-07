@@ -1,6 +1,6 @@
 ### Olá, mundo! 🌎
 ### Estou sempre criando coisas incríveis com bits e bytes
-![David GitHub stats](https://github-readme-stats.vercel.app/api?username=david-pessoa&show_icons=true&theme=radical)
+<!--![David GitHub stats](https://github-readme-stats.vercel.app/api?username=david-pessoa&show_icons=true&theme=radical) -->
 ### Linguagens usadas no meu dia a dia:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -12,7 +12,7 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)-->
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-pessoa&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-pessoa&layout=compact)
 
 ### Contato:
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dassoa-510302200vid-pe/)
