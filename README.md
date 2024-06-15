@@ -1,7 +1,7 @@
 ### Olá, mundo! 🌎
 ### Estou sempre criando coisas incríveis com bits e bytes
 ![david-pessoa's Stats](https://github-readme-stats.vercel.app/api?username=david-pessoa&theme=react&show_icons=true&hide_border=false&count_private=true)
-![david-pessoa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=david-pessoa&theme=react&hide_border=false)
+<!--![david-pessoa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=david-pessoa&theme=react&hide_border=false) -->
 
 ### Linguagens usadas no meu dia a dia:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
