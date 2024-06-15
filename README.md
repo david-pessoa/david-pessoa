@@ -1,7 +1,7 @@
 ### Olá, mundo! 🌎
 ### Estou sempre criando coisas incríveis com bits e bytes
-![david-pessoa's Stats](https://github-readme-stats.vercel.app/api?username=david-pessoa&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
-![david-pessoa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=david-pessoa&theme=blue-green&hide_border=false)
+![david-pessoa's Stats](https://github-readme-stats.vercel.app/api?username=david-pessoa&theme=react&show_icons=true&hide_border=false&count_private=true)
+![david-pessoa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=david-pessoa&theme=react&hide_border=false)
 
 ### Linguagens usadas no meu dia a dia:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,9 +17,9 @@
 
 <!-- Tem que dar um jeito de diminuir a imagem... será que serve?
 ![prolog](https://github.com/david-pessoa/david-pessoa/assets/104323068/0979f25f-dae1-4074-8285-3185703355e6) -->
+![david-pessoa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=david-pessoa&theme=react&show_icons=true&hide_border=false&layout=compact)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=david-pessoa&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
 
 ### Contato:
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dassoa-510302200vid-pe/)
