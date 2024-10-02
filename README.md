@@ -1,5 +1,5 @@
-### Olá, mundo! 🌎
-### Estou sempre criando coisas incríveis com bits e bytes
+# Olá, mundo! 🌎
+## Estou sempre criando coisas incríveis com bits e bytes
 ![david-pessoa's Stats](https://github-readme-stats.vercel.app/api?username=david-pessoa&theme=react&show_icons=true&hide_border=false&count_private=true)
 <!--![david-pessoa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=david-pessoa&theme=react&hide_border=false) -->
 
@@ -13,14 +13,15 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
-<!-- Tem que dar um jeito de diminuir a imagem... será que serve?
-![prolog](https://github.com/david-pessoa/david-pessoa/assets/104323068/0979f25f-dae1-4074-8285-3185703355e6) -->
+
 ![david-pessoa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=david-pessoa&theme=react&show_icons=true&hide_border=false&layout=compact)
 
+## [Portfólio](https://pessoadvlbp.wixsite.com/website)
 
-
-### Contato:
+## Contato:
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dassoa-510302200vid-pe/)
-<br/>Email: davidpessoa.profissional@gmail.com
+<div class="container">
+  <a href="mailto:davidpessoa.profissional@gmail.com"><img src="https://github.com/user-attachments/assets/fcd68cbe-998d-472a-9443-62747e82fa4e" width="55" height="50" /></a>
+</div>
+
