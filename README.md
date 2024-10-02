@@ -22,6 +22,6 @@
 ## Contato:
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dassoa-510302200vid-pe/)
 <div class="container">
-  <a target="_blank" href="mailto:davidpessoa.profissional@gmail.com"><img src="https://github.com/user-attachments/assets/fcd68cbe-998d-472a-9443-62747e82fa4e" width="55" height="50"/></a>
+  <a target="_blank" rel="noreferrer noopener" href="mailto:davidpessoa.profissional@gmail.com"><img src="https://github.com/user-attachments/assets/fcd68cbe-998d-472a-9443-62747e82fa4e" width="55" height="50"/></a>
 </div>
 
