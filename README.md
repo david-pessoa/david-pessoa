@@ -3,6 +3,8 @@
 ![david-pessoa's Stats](https://github-readme-stats.vercel.app/api?username=david-pessoa&theme=react&show_icons=true&hide_border=false&count_private=true)
 <!--![david-pessoa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=david-pessoa&theme=react&hide_border=false) -->
 
+![david-pessoa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=david-pessoa&theme=react&show_icons=true&hide_border=false&layout=compact)
+
 ### Linguagens usadas no meu dia a dia:
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -45,8 +47,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
   </a>
 </p>
-
-![david-pessoa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=david-pessoa&theme=react&show_icons=true&hide_border=false&layout=compact)
 
 ## Acesse meu [Portfólio!](https://davidpessoa.com.br)
 
