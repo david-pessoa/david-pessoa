@@ -31,6 +31,9 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/> 
   </a> 
+  <a href="https://aws.github.io/chalice/" target="_blank" rel="noreferrer"> 
+    <img src="https://aws.github.io/chalice/_static/img/chalice-logo-icon-small.png" alt="Chalice" width="40" height="40"/> 
+  </a> 
   <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> 
   </a> 
