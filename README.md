@@ -1,10 +1,10 @@
 # Olá, mundo! 🌎
 ## Estou sempre criando coisas incríveis com bits e bytes
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=david-pessoa&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=david-pessoa&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=david-pessoa&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=david-pessoa&show_icons=true&theme=react)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=david-pessoa&theme=react)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=david-pessoa&layout=compact&theme=react)
 
-### Linguagens usadas no meu dia a dia:
+## Linguagens usadas no meu dia a dia:
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -52,6 +52,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
   </a>
 </p>
+
+## Top repositórios
+[![SamsAI repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=SamsAI&theme=react)](https://github.com/david-pessoa/SamsAI)
+[![SamsAI repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=EstacaoMeteorologica&theme=react)](https://github.com/david-pessoa/EstacaoMeteorologica)
+[![SamsAI repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=web-mobile-next&theme=react)](https://github.com/david-pessoa/web-mobile-next)
+[![SamsAI repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=Banco_do_Django&theme=react)](https://github.com/david-pessoa/Banco_do_Django)
 
 ## Acesse meu [Portfólio!](https://davidpessoa.com.br)
 
