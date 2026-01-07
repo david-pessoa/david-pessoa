@@ -1,9 +1,8 @@
 # Olá, mundo! 🌎
 ## Estou sempre criando coisas incríveis com bits e bytes
-<div style="display:flex; flex-direction: column"; gap: 1rem>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=david-pessoa&theme=react&show_icons=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=david-pessoa&theme=react&layout=compact&show_icons=true&hide_border=false" alt="Top Langs" />
-</div>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=david-pessoa&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=david-pessoa&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=david-pessoa&layout=compact&theme=radical)
 
 ### Linguagens usadas no meu dia a dia:
 <p align="left"> 
