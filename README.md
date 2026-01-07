@@ -1,9 +1,7 @@
 # Olá, mundo! 🌎
 ## Estou sempre criando coisas incríveis com bits e bytes
-![david-pessoa's Stats](https://github-readme-stats.vercel.app/api?username=david-pessoa&theme=react&show_icons=true&hide_border=false&count_private=true)
-<!--![david-pessoa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=david-pessoa&theme=react&hide_border=false) -->
-
-![david-pessoa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=david-pessoa&theme=react&show_icons=true&hide_border=false&layout=compact)
+![David Pessoa's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=david-pessoa&theme=react&show_icons=true)
+![David Pessoa's Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=david-pessoa&theme=react&layout=compact&show_icons=true&hide_border=false)
 
 ### Linguagens usadas no meu dia a dia:
 <p align="left"> 
