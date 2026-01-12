@@ -54,10 +54,10 @@
 </p>
 
 ## Top repositórios
-[![SamsAI repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=SamsAI&theme=react)](https://github.com/david-pessoa/SamsAI)
-[![SamsAI repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=EstacaoMeteorologica&theme=react)](https://github.com/david-pessoa/EstacaoMeteorologica)
-[![SamsAI repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=web-mobile-next&theme=react)](https://github.com/david-pessoa/web-mobile-next)
-[![SamsAI repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=Banco_do_Django&theme=react)](https://github.com/david-pessoa/Banco_do_Django)
+[![web-mobile-next repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=web-mobile-next&theme=react)](https://github.com/david-pessoa/web-mobile-next)
+[![SamsAI repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=Cehiim&repo=SamsAI&theme=react)](https://github.com/Cehiim/SamsAI)
+[![EstacaoMeteorologica repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=EstacaoMeteorologica&theme=react)](https://github.com/david-pessoa/EstacaoMeteorologica)
+[![Banco_do_Django repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=Banco_do_Django&theme=react)](https://github.com/david-pessoa/Banco_do_Django)
 
 ## Acesse meu [Portfólio!](https://davidpessoa.com.br)
 
