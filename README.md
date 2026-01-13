@@ -30,6 +30,9 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/> 
   </a> 
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/> 
+  </a> 
   <a href="https://aws.github.io/chalice/" target="_blank" rel="noreferrer"> 
     <img src="https://aws.github.io/chalice/_static/img/chalice-logo-icon-small.png" alt="Chalice" width="40" height="40"/> 
   </a> 
@@ -54,10 +57,10 @@
 </p>
 
 ## Top repositórios
+[![Incorporadora Manager repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=titoco3000&repo=incorporadora-manager&theme=react)](https://github.com/titoco3000/incorporadora-manager)
 [![web-mobile-next repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=web-mobile-next&theme=react)](https://github.com/david-pessoa/web-mobile-next)
 [![SamsAI repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=Cehiim&repo=SamsAI&theme=react)](https://github.com/Cehiim/SamsAI)
 [![EstacaoMeteorologica repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=EstacaoMeteorologica&theme=react)](https://github.com/david-pessoa/EstacaoMeteorologica)
-[![Banco_do_Django repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=Banco_do_Django&theme=react)](https://github.com/david-pessoa/Banco_do_Django)
 
 ## Acesse meu [Portfólio!](https://davidpessoa.com.br)
 
