@@ -37,12 +37,12 @@
 [![SamsAI repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=Cehiim&repo=SamsAI&theme=react)](https://github.com/Cehiim/SamsAI)
 [![EstacaoMeteorologica repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=EstacaoMeteorologica&theme=react)](https://github.com/david-pessoa/EstacaoMeteorologica)
 
-## Acesse meu [Portfólio!](https://davidpessoa.com.br)
-
-## Contato:
+## Entre em Contato:
 <div class="container" style="display: flex;" >
   <a target="_blank" rel="noreferrer noopener" href="mailto:davidpessoa.profissional@gmail.com">
     <img src="https://camo.githubusercontent.com/590734ce10f8c7025507e353487a86f7ebca5792ff3d282562bc111f91d4c10e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
+  <a target="_blank" rel="noreferrer noopener" href="https://davidpessoa.com.br/">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <a target = "_blank" rel = "noreferrer noopener" href = "https://www.linkedin.com/in/david-varao-lima-bentes-pessoa/">
     <img src="https://camo.githubusercontent.com/8f3febfdb7e01c6e70c7b45df35c37a7acf3b62d52a205b6a8d1e52c6fb93870/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
