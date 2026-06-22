@@ -1,5 +1,5 @@
 # Olá, eu sou David Pessoa 👨‍💻
-Desenvolvedor Front-end / Full Stack Jr. com experiencia em React, Next.js, Python, Django, APIs REST, PostgreSQL e aplicacoes com IA.
+Desenvolvedor Full Stack Jr. com experiencia em React, Next.js, Python, Django, APIs REST, PostgreSQL e aplicações com IA.
 
 ## Projetos em destaque 
 - [Portfólio pessoal](https://github.com/david-pessoa/Curriculo)
