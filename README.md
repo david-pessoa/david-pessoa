@@ -1,40 +1,28 @@
-# Olá, mundo! 🌎
-## Estou sempre criando coisas incríveis com bits e bytes
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=david-pessoa&show_icons=true&theme=react)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=david-pessoa&theme=react)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=david-pessoa&layout=compact&theme=react)
+# Olá, eu sou David Pessoa 👨‍💻
+Desenvolvedor Front-end / Full Stack Jr. com experiencia em React, Next.js, Python, Django, APIs REST, PostgreSQL e aplicacoes com IA.
 
-## Linguagens usadas no meu dia a dia:
+## Projetos em destaque 
+- [Portfólio pessoal](https://github.com/david-pessoa/Curriculo)
+- [Clínica Odontológica em Next.js](https://github.com/david-pessoa/clinica-odontologica)
+- [Code Pilot / Chatbot com IA](https://github.com/david-pessoa/code-pilot-frontend)
+- [SamsAI](https://github.com/Cehiim/SamsAI)
+- [Estação Meteorológica](https://github.com/david-pessoa/EstacaoMeteorologica)
+- [Banco do Django](https://github.com/david-pessoa/Banco_do_Django)
+
+## Stack Principal
 <div class="container" style="display: flex;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</div>
-
-### Frameworks que costumo utilizar
-<div class="container" style="display: flex;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/> 
-  <img src="https://aws.github.io/chalice/_static/img/chalice-logo-icon-small.png" alt="Chalice" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
-</div>
-
-### Ferramentas de devOps com que estou habituado
-<div class="container" style="display: flex;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
 </div>
 
-## Top repositórios
-[![web-mobile-next repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=web-mobile-next&theme=react)](https://github.com/david-pessoa/web-mobile-next)
-[![SamsAI repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=Cehiim&repo=SamsAI&theme=react)](https://github.com/Cehiim/SamsAI)
-[![EstacaoMeteorologica repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=david-pessoa&repo=EstacaoMeteorologica&theme=react)](https://github.com/david-pessoa/EstacaoMeteorologica)
+## Estou sempre criando coisas incríveis com bits e bytes
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=david-pessoa&show_icons=true&theme=react)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=david-pessoa&layout=compact&theme=react)
 
 ## Entre em Contato:
 <div class="container" style="display: flex;" >
