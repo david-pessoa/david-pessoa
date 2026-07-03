@@ -26,7 +26,7 @@ Desenvolvedor Full Stack Jr. com experiencia em React, Next.js, Python, Django, 
 
 ## Entre em Contato:
 <div class="container" style="display: flex;" >
-  <a target="_blank" rel="noreferrer noopener" href="mailto:davidpessoa.profissional@gmail.com">
+  <a target="_blank" rel="noreferrer noopener" href="mailto:davidpessoa.tech@gmail.com">
     <img src="https://camo.githubusercontent.com/590734ce10f8c7025507e353487a86f7ebca5792ff3d282562bc111f91d4c10e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
   <a target="_blank" rel="noreferrer noopener" href="https://davidpessoa.com.br/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white"/>
