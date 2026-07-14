@@ -1,13 +1,13 @@
 # Olá, eu sou David Pessoa 👨‍💻
-Desenvolvedor Full Stack Jr. com experiencia em React, Next.js, Python, Django, APIs REST, PostgreSQL e aplicações com IA.
+Desenvolvedor Full Stack Jr. com experiencia em React, Next.js, Python, Django, Node.js, APIs REST, PostgreSQL e aplicações com IA.
 
 ## Projetos em destaque 
 - [Portfólio pessoal](https://github.com/david-pessoa/Curriculo)
+- [API de Gerenciamento de Posts](https://github.com/david-pessoa/Tech-Challenge-Fase-2)
 - [Clínica Odontológica em Next.js](https://github.com/david-pessoa/clinica-odontologica)
 - [Code Pilot / Chatbot com IA](https://github.com/david-pessoa/code-pilot-frontend)
 - [SamsAI](https://github.com/Cehiim/SamsAI)
 - [Estação Meteorológica](https://github.com/david-pessoa/EstacaoMeteorologica)
-- [Banco do Django](https://github.com/david-pessoa/Banco_do_Django)
 
 ## Stack Principal
 <div class="container" style="display: flex;">
