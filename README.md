@@ -3,7 +3,8 @@ Desenvolvedor Full Stack Jr. com experiencia em React, Next.js, Python, Django, 
 
 ## Projetos em destaque 
 - [Portfólio pessoal](https://github.com/david-pessoa/Curriculo)
-- [API de Gerenciamento de Posts](https://github.com/david-pessoa/Tech-Challenge-Fase-2)
+- [Edify Front-end em React](https://github.com/david-pessoa/tech-challenge-frontend)
+- [API do Edify](https://github.com/david-pessoa/tech-challenge-backend)
 - [Clínica Odontológica em Next.js](https://github.com/david-pessoa/clinica-odontologica)
 - [Code Pilot / Chatbot com IA](https://github.com/david-pessoa/code-pilot-frontend)
 - [SamsAI](https://github.com/Cehiim/SamsAI)
